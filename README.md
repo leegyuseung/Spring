@@ -1,2 +1,2 @@
 # springboot
-gradle + eclipe
+gradle + eclipse
